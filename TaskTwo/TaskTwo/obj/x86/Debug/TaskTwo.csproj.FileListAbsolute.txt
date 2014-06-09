@@ -1,0 +1,7 @@
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\bin\Debug\TaskTwo.exe
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\bin\Debug\TaskTwo.pdb
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\obj\x86\Debug\TaskTwo.Form1.resources
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\obj\x86\Debug\TaskTwo.Properties.Resources.resources
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\obj\x86\Debug\TaskTwo.csproj.GenerateResource.Cache
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\obj\x86\Debug\TaskTwo.exe
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\TaskTwo\TaskTwo\obj\x86\Debug\TaskTwo.pdb
