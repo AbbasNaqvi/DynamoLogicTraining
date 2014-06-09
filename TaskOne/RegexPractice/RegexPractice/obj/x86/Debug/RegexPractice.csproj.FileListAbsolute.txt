@@ -1,0 +1,9 @@
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\RegexPractice\RegexPractice\bin\Debug\RegexPractice.exe
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\RegexPractice\RegexPractice\bin\Debug\RegexPractice.pdb
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\RegexPractice\RegexPractice\obj\x86\Debug\RegexPractice.exe
+c:\users\syed abbas naqvi\documents\visual studio 2010\Projects\RegexPractice\RegexPractice\obj\x86\Debug\RegexPractice.pdb
+C:\Users\Syed Abbas Naqvi\Desktop\TaskOne\RegexPractice\RegexPractice\obj\x86\Debug\RegexPractice.exe
+C:\Users\Syed Abbas Naqvi\Desktop\TaskOne\RegexPractice\RegexPractice\obj\x86\Debug\RegexPractice.pdb
+C:\Users\Syed Abbas Naqvi\Desktop\TaskOne\RegexPractice\RegexPractice\bin\Debug\RegexPractice.exe
+C:\Users\Syed Abbas Naqvi\Desktop\TaskOne\RegexPractice\RegexPractice\bin\Debug\RegexPractice.pdb
+C:\Users\Syed Abbas Naqvi\Desktop\TaskOne\RegexPractice\RegexPractice\obj\x86\Debug\RegexPractice.csprojResolveAssemblyReference.cache
